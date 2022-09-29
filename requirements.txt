@@ -2,7 +2,7 @@ hachoir
 numpy
 asyncio
 Pillow
-pyrogram==1.0.7
+pyrogram
 requests
 tgcrypto
 google-api-python-client>=1.7.11,<1.7.20
